@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorios\\PIII - ANE REPASO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{853836C5-A84E-4D7B-B49D-274D5C9046BA}|PIII - ANE REPASO\\PIII - ANE REPASO.vcxproj|C:\\Repositorios\\PIII - ANE REPASO\\PIII - ANE REPASO\\PIII - ANE REPASO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{853836C5-A84E-4D7B-B49D-274D5C9046BA}|PIII - ANE REPASO\\PIII - ANE REPASO.vcxproj|solutionrelative:PIII - ANE REPASO\\PIII - ANE REPASO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PIII - ANE REPASO.cpp",
+              "DocumentMoniker": "C:\\Repositorios\\PIII - ANE REPASO\\PIII - ANE REPASO\\PIII - ANE REPASO.cpp",
+              "RelativeDocumentMoniker": "PIII - ANE REPASO\\PIII - ANE REPASO.cpp",
+              "ToolTip": "C:\\Repositorios\\PIII - ANE REPASO\\PIII - ANE REPASO\\PIII - ANE REPASO.cpp",
+              "RelativeToolTip": "PIII - ANE REPASO\\PIII - ANE REPASO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-20T08:14:31.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
