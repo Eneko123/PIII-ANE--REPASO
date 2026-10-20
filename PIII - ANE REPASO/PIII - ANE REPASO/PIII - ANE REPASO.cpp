@@ -1,11 +1,16 @@
 // PIII - ANE REPASO.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
-
+#include "Usuarios.h"
 #include <iostream>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    Usuarios U;
+
+    U.PedirNuemros();
+    U.MostrarNumeroMayorYMenor();
+    U.MostrarNumerosParesYRepetidos();
+    return 0;
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar

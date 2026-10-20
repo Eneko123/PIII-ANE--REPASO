@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="PIII - ANE REPASO.cpp" />
+    <ClCompile Include="Usuarios.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Usuarios.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
